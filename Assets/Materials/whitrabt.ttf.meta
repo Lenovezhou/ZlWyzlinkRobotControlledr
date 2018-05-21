@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 97d16c605c564d04e9968bd23be3e0a8
+timeCreated: 1497857577
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: White Rabbit
+  fontNames:
+  - White Rabbit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 699a7720bc042af4b8b9c9b518f44fc4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

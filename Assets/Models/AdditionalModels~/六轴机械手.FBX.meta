@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 138e6384e5a0f824e95cbf53f1890fdd
+timeCreated: 1494269734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: J1.1 -700D_1
+    100002: J1.2 -700D_2
+    100004: J2.1 -700D_3
+    100006: J2.2 -700D_4
+    100008: J3.1 -900D_5
+    100010: J4.1 -700D_6
+    100012: NONE
+    100014: NONE 1
+    100016: NONE 1_MeshPart0
+    100018: NONE 1_MeshPart1
+    100020: NONE 1_MeshPart2
+    100022: NONE 1_MeshPart3
+    100024: NONE 1_MeshPart4
+    100026: NONE 2
+    100028: NONE 2_MeshPart0
+    100030: NONE 2_MeshPart1
+    100032: NONE 2_MeshPart2
+    100034: NONE 2_MeshPart3
+    100036: NONE 2_MeshPart4
+    100038: NONE 2_MeshPart5
+    100040: NONE 3
+    100042: NONE 3_MeshPart0
+    100044: NONE 3_MeshPart1
+    100046: NONE 3_MeshPart2
+    100048: NONE 3_MeshPart3
+    100050: NONE 3_MeshPart4
+    100052: NONE 3_MeshPart5
+    100054: NONE 4
+    100056: NONE 4_MeshPart0
+    100058: NONE 4_MeshPart1
+    100060: NONE 4_MeshPart2
+    100062: NONE 4_MeshPart3
+    100064: NONE 4_MeshPart4
+    100066: NONE 4_MeshPart5
+    100068: NONE 4_MeshPart6
+    100070: NONE 5
+    100072: NONE 5_MeshPart0
+    100074: NONE 5_MeshPart1
+    100076: NONE 5_MeshPart2
+    100078: NONE 5_MeshPart3
+    100080: NONE_MeshPart0
+    100082: NONE_MeshPart1
+    100084: NONE_MeshPart2
+    100086: NONE_MeshPart3
+    100088: NONE_MeshPart4
+    100090: NONE_MeshPart5
+    100092: SR6-700-3
+    100094: //RootNode
+    400000: J1.1 -700D_1
+    400002: J1.2 -700D_2
+    400004: J2.1 -700D_3
+    400006: J2.2 -700D_4
+    400008: J3.1 -900D_5
+    400010: J4.1 -700D_6
+    400012: NONE
+    400014: NONE 1
+    400016: NONE 1_MeshPart0
+    400018: NONE 1_MeshPart1
+    400020: NONE 1_MeshPart2
+    400022: NONE 1_MeshPart3
+    400024: NONE 1_MeshPart4
+    400026: NONE 2
+    400028: NONE 2_MeshPart0
+    400030: NONE 2_MeshPart1
+    400032: NONE 2_MeshPart2
+    400034: NONE 2_MeshPart3
+    400036: NONE 2_MeshPart4
+    400038: NONE 2_MeshPart5
+    400040: NONE 3
+    400042: NONE 3_MeshPart0
+    400044: NONE 3_MeshPart1
+    400046: NONE 3_MeshPart2
+    400048: NONE 3_MeshPart3
+    400050: NONE 3_MeshPart4
+    400052: NONE 3_MeshPart5
+    400054: NONE 4
+    400056: NONE 4_MeshPart0
+    400058: NONE 4_MeshPart1
+    400060: NONE 4_MeshPart2
+    400062: NONE 4_MeshPart3
+    400064: NONE 4_MeshPart4
+    400066: NONE 4_MeshPart5
+    400068: NONE 4_MeshPart6
+    400070: NONE 5
+    400072: NONE 5_MeshPart0
+    400074: NONE 5_MeshPart1
+    400076: NONE 5_MeshPart2
+    400078: NONE 5_MeshPart3
+    400080: NONE_MeshPart0
+    400082: NONE_MeshPart1
+    400084: NONE_MeshPart2
+    400086: NONE_MeshPart3
+    400088: NONE_MeshPart4
+    400090: NONE_MeshPart5
+    400092: SR6-700-3
+    400094: //RootNode
+    2300000: NONE 1_MeshPart0
+    2300002: NONE 1_MeshPart1
+    2300004: NONE 1_MeshPart2
+    2300006: NONE 1_MeshPart3
+    2300008: NONE 1_MeshPart4
+    2300010: NONE 2_MeshPart0
+    2300012: NONE 2_MeshPart1
+    2300014: NONE 2_MeshPart2
+    2300016: NONE 2_MeshPart3
+    2300018: NONE 2_MeshPart4
+    2300020: NONE 2_MeshPart5
+    2300022: NONE 3_MeshPart0
+    2300024: NONE 3_MeshPart1
+    2300026: NONE 3_MeshPart2
+    2300028: NONE 3_MeshPart3
+    2300030: NONE 3_MeshPart4
+    2300032: NONE 3_MeshPart5
+    2300034: NONE 4_MeshPart0
+    2300036: NONE 4_MeshPart1
+    2300038: NONE 4_MeshPart2
+    2300040: NONE 4_MeshPart3
+    2300042: NONE 4_MeshPart4
+    2300044: NONE 4_MeshPart5
+    2300046: NONE 4_MeshPart6
+    2300048: NONE 5_MeshPart0
+    2300050: NONE 5_MeshPart1
+    2300052: NONE 5_MeshPart2
+    2300054: NONE 5_MeshPart3
+    2300056: NONE_MeshPart0
+    2300058: NONE_MeshPart1
+    2300060: NONE_MeshPart2
+    2300062: NONE_MeshPart3
+    2300064: NONE_MeshPart4
+    2300066: NONE_MeshPart5
+    3300000: NONE 1_MeshPart0
+    3300002: NONE 1_MeshPart1
+    3300004: NONE 1_MeshPart2
+    3300006: NONE 1_MeshPart3
+    3300008: NONE 1_MeshPart4
+    3300010: NONE 2_MeshPart0
+    3300012: NONE 2_MeshPart1
+    3300014: NONE 2_MeshPart2
+    3300016: NONE 2_MeshPart3
+    3300018: NONE 2_MeshPart4
+    3300020: NONE 2_MeshPart5
+    3300022: NONE 3_MeshPart0
+    3300024: NONE 3_MeshPart1
+    3300026: NONE 3_MeshPart2
+    3300028: NONE 3_MeshPart3
+    3300030: NONE 3_MeshPart4
+    3300032: NONE 3_MeshPart5
+    3300034: NONE 4_MeshPart0
+    3300036: NONE 4_MeshPart1
+    3300038: NONE 4_MeshPart2
+    3300040: NONE 4_MeshPart3
+    3300042: NONE 4_MeshPart4
+    3300044: NONE 4_MeshPart5
+    3300046: NONE 4_MeshPart6
+    3300048: NONE 5_MeshPart0
+    3300050: NONE 5_MeshPart1
+    3300052: NONE 5_MeshPart2
+    3300054: NONE 5_MeshPart3
+    3300056: NONE_MeshPart0
+    3300058: NONE_MeshPart1
+    3300060: NONE_MeshPart2
+    3300062: NONE_MeshPart3
+    3300064: NONE_MeshPart4
+    3300066: NONE_MeshPart5
+    4300000: NONE_MeshPart0
+    4300002: NONE_MeshPart1
+    4300004: NONE_MeshPart2
+    4300006: NONE_MeshPart3
+    4300008: NONE_MeshPart4
+    4300010: NONE_MeshPart5
+    4300012: NONE_MeshPart0
+    4300014: NONE_MeshPart1
+    4300016: NONE_MeshPart2
+    4300018: NONE_MeshPart3
+    4300020: NONE_MeshPart4
+    4300022: NONE_MeshPart0
+    4300024: NONE_MeshPart1
+    4300026: NONE_MeshPart2
+    4300028: NONE_MeshPart3
+    4300030: NONE_MeshPart4
+    4300032: NONE_MeshPart5
+    4300034: NONE_MeshPart0
+    4300036: NONE_MeshPart1
+    4300038: NONE_MeshPart2
+    4300040: NONE_MeshPart3
+    4300042: NONE_MeshPart4
+    4300044: NONE_MeshPart5
+    4300046: NONE_MeshPart0
+    4300048: NONE_MeshPart1
+    4300050: NONE_MeshPart2
+    4300052: NONE_MeshPart3
+    4300054: NONE_MeshPart4
+    4300056: NONE_MeshPart5
+    4300058: NONE_MeshPart6
+    4300060: NONE_MeshPart0
+    4300062: NONE_MeshPart1
+    4300064: NONE_MeshPart2
+    4300066: NONE_MeshPart3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

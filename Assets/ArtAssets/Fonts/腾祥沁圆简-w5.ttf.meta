@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 79af67f079f87cd4f941e9b2cf180941
+timeCreated: 1498235937
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tensentype QinYuanJ
+  fontNames:
+  - Tensentype QinYuanJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 1ae27a820cb08fa4c83fe414a59f44ed
+timeCreated: 1494879551
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1-1
+    100004: 1-2
+    100006: 1-3
+    100008: KR 3 R540.SLDASM 1
+    100010: KR 3 R540.sldasm-Part-1
+    100012: KR 3 R540.sldasm-Part-18
+    100014: KR 3 R540.sldasm-Part-19
+    100016: KR 3 R540.sldasm-Part-2
+    100018: KR 3 R540.sldasm-Part-20
+    100020: KR 3 R540.sldasm-Part-21
+    100022: KR 3 R540.sldasm-Part-3
+    100024: KR 3 R540.sldasm-Part-4
+    100026: KR 3 R540.sldasm-Part-5
+    100028: KR 3 R540.sldasm-Part-6
+    100030: KR 3 R540.sldasm-Part-7
+    100032: KR 3 R540.sldasm-Part-8
+    100034: KR 3 R540.sldasm-Part-9
+    100036: SK
+    100038: "\u51F8\u53F0-\u62C9\u4F381"
+    100040: "\u51F8\u53F0-\u62C9\u4F381 1"
+    100042: "\u51F8\u53F0-\u62C9\u4F381 2"
+    100044: "\u51F8\u53F0-\u62C9\u4F381 3"
+    100046: "\u51F8\u53F0-\u62C9\u4F381 4"
+    100048: //RootNode
+    100050: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74"
+    100052: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 1"
+    100054: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 2"
+    100056: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 3"
+    100058: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 4"
+    100060: "\u8F93\u51651"
+    100062: "\u8F93\u51651 1"
+    100064: "\u8F93\u51651 10"
+    100066: "\u8F93\u51651 11"
+    100068: "\u8F93\u51651 12"
+    100070: "\u8F93\u51651 13"
+    100072: "\u8F93\u51651 14"
+    100074: "\u8F93\u51651 15"
+    100076: "\u8F93\u51651 15_MeshPart0"
+    100078: "\u8F93\u51651 15_MeshPart1"
+    100080: "\u8F93\u51651 15_MeshPart2"
+    100082: "\u8F93\u51651 16"
+    100084: "\u8F93\u51651 16_MeshPart0"
+    100086: "\u8F93\u51651 16_MeshPart1"
+    100088: "\u8F93\u51651 16_MeshPart2"
+    100090: "\u8F93\u51651 16_MeshPart3"
+    100092: "\u8F93\u51651 17"
+    100094: "\u8F93\u51651 2"
+    100096: "\u8F93\u51651 3"
+    100098: "\u8F93\u51651 4"
+    100100: "\u8F93\u51651 5"
+    100102: "\u8F93\u51651 6"
+    100104: "\u8F93\u51651 6_MeshPart0"
+    100106: "\u8F93\u51651 6_MeshPart1"
+    100108: "\u8F93\u51651 6_MeshPart2"
+    100110: "\u8F93\u51651 6_MeshPart3"
+    100112: "\u8F93\u51651 7"
+    100114: "\u8F93\u51651 8"
+    100116: "\u8F93\u51651 8_MeshPart0"
+    100118: "\u8F93\u51651 8_MeshPart1"
+    100120: "\u8F93\u51651 9"
+    100122: "\u8F93\u51651 9_MeshPart0"
+    100124: "\u8F93\u51651 9_MeshPart1"
+    100126: "\u8F93\u51651 9_MeshPart2"
+    100128: "\u8F93\u51651 9_MeshPart3"
+    400000: 1
+    400002: 1-1
+    400004: 1-2
+    400006: 1-3
+    400008: KR 3 R540.SLDASM 1
+    400010: KR 3 R540.sldasm-Part-1
+    400012: KR 3 R540.sldasm-Part-18
+    400014: KR 3 R540.sldasm-Part-19
+    400016: KR 3 R540.sldasm-Part-2
+    400018: KR 3 R540.sldasm-Part-20
+    400020: KR 3 R540.sldasm-Part-21
+    400022: KR 3 R540.sldasm-Part-3
+    400024: KR 3 R540.sldasm-Part-4
+    400026: KR 3 R540.sldasm-Part-5
+    400028: KR 3 R540.sldasm-Part-6
+    400030: KR 3 R540.sldasm-Part-7
+    400032: KR 3 R540.sldasm-Part-8
+    400034: KR 3 R540.sldasm-Part-9
+    400036: SK
+    400038: "\u51F8\u53F0-\u62C9\u4F381"
+    400040: "\u51F8\u53F0-\u62C9\u4F381 1"
+    400042: "\u51F8\u53F0-\u62C9\u4F381 2"
+    400044: "\u51F8\u53F0-\u62C9\u4F381 3"
+    400046: "\u51F8\u53F0-\u62C9\u4F381 4"
+    400048: //RootNode
+    400050: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74"
+    400052: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 1"
+    400054: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 2"
+    400056: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 3"
+    400058: "\u8F6C\u52A8\u4E2D\u5FC3\u8F74 4"
+    400060: "\u8F93\u51651"
+    400062: "\u8F93\u51651 1"
+    400064: "\u8F93\u51651 10"
+    400066: "\u8F93\u51651 11"
+    400068: "\u8F93\u51651 12"
+    400070: "\u8F93\u51651 13"
+    400072: "\u8F93\u51651 14"
+    400074: "\u8F93\u51651 15"
+    400076: "\u8F93\u51651 15_MeshPart0"
+    400078: "\u8F93\u51651 15_MeshPart1"
+    400080: "\u8F93\u51651 15_MeshPart2"
+    400082: "\u8F93\u51651 16"
+    400084: "\u8F93\u51651 16_MeshPart0"
+    400086: "\u8F93\u51651 16_MeshPart1"
+    400088: "\u8F93\u51651 16_MeshPart2"
+    400090: "\u8F93\u51651 16_MeshPart3"
+    400092: "\u8F93\u51651 17"
+    400094: "\u8F93\u51651 2"
+    400096: "\u8F93\u51651 3"
+    400098: "\u8F93\u51651 4"
+    400100: "\u8F93\u51651 5"
+    400102: "\u8F93\u51651 6"
+    400104: "\u8F93\u51651 6_MeshPart0"
+    400106: "\u8F93\u51651 6_MeshPart1"
+    400108: "\u8F93\u51651 6_MeshPart2"
+    400110: "\u8F93\u51651 6_MeshPart3"
+    400112: "\u8F93\u51651 7"
+    400114: "\u8F93\u51651 8"
+    400116: "\u8F93\u51651 8_MeshPart0"
+    400118: "\u8F93\u51651 8_MeshPart1"
+    400120: "\u8F93\u51651 9"
+    400122: "\u8F93\u51651 9_MeshPart0"
+    400124: "\u8F93\u51651 9_MeshPart1"
+    400126: "\u8F93\u51651 9_MeshPart2"
+    400128: "\u8F93\u51651 9_MeshPart3"
+    2300000: "\u51F8\u53F0-\u62C9\u4F381"
+    2300002: "\u51F8\u53F0-\u62C9\u4F381 1"
+    2300004: "\u51F8\u53F0-\u62C9\u4F381 2"
+    2300006: "\u51F8\u53F0-\u62C9\u4F381 3"
+    2300008: "\u51F8\u53F0-\u62C9\u4F381 4"
+    2300010: "\u8F93\u51651"
+    2300012: "\u8F93\u51651 1"
+    2300014: "\u8F93\u51651 10"
+    2300016: "\u8F93\u51651 11"
+    2300018: "\u8F93\u51651 12"
+    2300020: "\u8F93\u51651 13"
+    2300022: "\u8F93\u51651 14"
+    2300024: "\u8F93\u51651 15_MeshPart0"
+    2300026: "\u8F93\u51651 15_MeshPart1"
+    2300028: "\u8F93\u51651 15_MeshPart2"
+    2300030: "\u8F93\u51651 16_MeshPart0"
+    2300032: "\u8F93\u51651 16_MeshPart1"
+    2300034: "\u8F93\u51651 16_MeshPart2"
+    2300036: "\u8F93\u51651 16_MeshPart3"
+    2300038: "\u8F93\u51651 17"
+    2300040: "\u8F93\u51651 2"
+    2300042: "\u8F93\u51651 3"
+    2300044: "\u8F93\u51651 4"
+    2300046: "\u8F93\u51651 5"
+    2300048: "\u8F93\u51651 6_MeshPart0"
+    2300050: "\u8F93\u51651 6_MeshPart1"
+    2300052: "\u8F93\u51651 6_MeshPart2"
+    2300054: "\u8F93\u51651 6_MeshPart3"
+    2300056: "\u8F93\u51651 7"
+    2300058: "\u8F93\u51651 8_MeshPart0"
+    2300060: "\u8F93\u51651 8_MeshPart1"
+    2300062: "\u8F93\u51651 9_MeshPart0"
+    2300064: "\u8F93\u51651 9_MeshPart1"
+    2300066: "\u8F93\u51651 9_MeshPart2"
+    2300068: "\u8F93\u51651 9_MeshPart3"
+    3300000: "\u51F8\u53F0-\u62C9\u4F381"
+    3300002: "\u51F8\u53F0-\u62C9\u4F381 1"
+    3300004: "\u51F8\u53F0-\u62C9\u4F381 2"
+    3300006: "\u51F8\u53F0-\u62C9\u4F381 3"
+    3300008: "\u51F8\u53F0-\u62C9\u4F381 4"
+    3300010: "\u8F93\u51651"
+    3300012: "\u8F93\u51651 1"
+    3300014: "\u8F93\u51651 10"
+    3300016: "\u8F93\u51651 11"
+    3300018: "\u8F93\u51651 12"
+    3300020: "\u8F93\u51651 13"
+    3300022: "\u8F93\u51651 14"
+    3300024: "\u8F93\u51651 15_MeshPart0"
+    3300026: "\u8F93\u51651 15_MeshPart1"
+    3300028: "\u8F93\u51651 15_MeshPart2"
+    3300030: "\u8F93\u51651 16_MeshPart0"
+    3300032: "\u8F93\u51651 16_MeshPart1"
+    3300034: "\u8F93\u51651 16_MeshPart2"
+    3300036: "\u8F93\u51651 16_MeshPart3"
+    3300038: "\u8F93\u51651 17"
+    3300040: "\u8F93\u51651 2"
+    3300042: "\u8F93\u51651 3"
+    3300044: "\u8F93\u51651 4"
+    3300046: "\u8F93\u51651 5"
+    3300048: "\u8F93\u51651 6_MeshPart0"
+    3300050: "\u8F93\u51651 6_MeshPart1"
+    3300052: "\u8F93\u51651 6_MeshPart2"
+    3300054: "\u8F93\u51651 6_MeshPart3"
+    3300056: "\u8F93\u51651 7"
+    3300058: "\u8F93\u51651 8_MeshPart0"
+    3300060: "\u8F93\u51651 8_MeshPart1"
+    3300062: "\u8F93\u51651 9_MeshPart0"
+    3300064: "\u8F93\u51651 9_MeshPart1"
+    3300066: "\u8F93\u51651 9_MeshPart2"
+    3300068: "\u8F93\u51651 9_MeshPart3"
+    4300000: "\u8F93\u51651"
+    4300002: "\u8F93\u51651"
+    4300004: "\u8F93\u51651"
+    4300006: "\u8F93\u51651"
+    4300008: "\u8F93\u51651"
+    4300010: "\u8F93\u51651"
+    4300012: "\u8F93\u51651"
+    4300014: "\u8F93\u51651"
+    4300016: "\u8F93\u51651"
+    4300018: "\u8F93\u51651"
+    4300020: "\u8F93\u51651"
+    4300022: "\u8F93\u51651"
+    4300024: "\u8F93\u51651_MeshPart0"
+    4300026: "\u8F93\u51651_MeshPart1"
+    4300028: "\u8F93\u51651_MeshPart2"
+    4300030: "\u8F93\u51651_MeshPart0"
+    4300032: "\u8F93\u51651_MeshPart1"
+    4300034: "\u8F93\u51651_MeshPart2"
+    4300036: "\u8F93\u51651_MeshPart3"
+    4300038: "\u8F93\u51651"
+    4300040: "\u8F93\u51651_MeshPart0"
+    4300042: "\u8F93\u51651_MeshPart1"
+    4300044: "\u8F93\u51651_MeshPart2"
+    4300046: "\u8F93\u51651_MeshPart3"
+    4300048: "\u8F93\u51651_MeshPart0"
+    4300050: "\u8F93\u51651_MeshPart1"
+    4300052: "\u8F93\u51651_MeshPart0"
+    4300054: "\u8F93\u51651_MeshPart1"
+    4300056: "\u8F93\u51651_MeshPart2"
+    4300058: "\u8F93\u51651_MeshPart3"
+    4300060: "\u51F8\u53F0-\u62C9\u4F381"
+    4300062: "\u51F8\u53F0-\u62C9\u4F381"
+    4300064: "\u51F8\u53F0-\u62C9\u4F381"
+    4300066: "\u51F8\u53F0-\u62C9\u4F381"
+    4300068: "\u51F8\u53F0-\u62C9\u4F381"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
